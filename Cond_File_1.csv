@@ -1,0 +1,11 @@
+condition,ProblemText,answer,music,,,,
+silence,What_is_the_capital_of_France?,paris,Music\silence.wav,,,,
+instrumental ,Solve_: _5+(3*2)-4,seven,Music\Instrumental.wav,,,,7
+lyrical,Unscramble_the_word:_EPLPA,apple,Music\Lyrical.wav,,,,
+silence,How_many_sides_does_a_hexagon_have?,six,Music\silence.wav,,,,
+instrumental ,"Who_wrote_""Romeo_and_Juliet""?",shakesphere,Music\Instrumental.wav,,,,
+lyrical,Solve_for_x:__2x+4=12,four,Music\Lyrical.wav,,,,
+silence,What_is_the_square_root_of_144?,twelve,Music\silence.wav,,,,
+instrumental ,Rearrange_to_form_a_country:__Dlieh,delhi,Music\Instrumental.wav,,,,
+lyrical,What_color_do_you_get_when_you_mix_blue_and_yellow?,green,Music\Lyrical.wav,,,,
+lyrical,"If_a_train_leaves_at_10:30AM_and_travels_for_2 hours,__what_time_does_it_arrive?",twelve-thirty,Music\Lyrical.wav,,,,
